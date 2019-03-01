@@ -1,0 +1,67 @@
+{
+    "status": "ok",
+    "post": {
+        "id": 26,
+        "type": "post",
+        "slug": "best-vue-js-datatables",
+        "url": "https://rsuregar.id/cms/best-vue-js-datatables/",
+        "status": "publish",
+        "title": "Best Vue.js Datatables",
+        "title_plain": "Best Vue.js Datatables",
+        "content": "\n<p>Datatables are a complex beast. If you ever built data-heavy business applications, you will probably know it&#8217;s not easy to make them readable and clear. A datatable component needs to be flexible enough to adapt to your dataset and use cases.</p>\n\n\n\n<p>I&#8217;ve collected some of my favourite datatable components for Vue.js in this article!</p>\n\n\n\n<p>I&#8217;ll keep the list updated if I find a shiny new one! If you think I should include one in particular, just email me (<a href=\"mailto:armin@nifty.at?ref=madewithvuejs.com\">armin@nifty.at</a>).</p>\n\n\n\n<p><em>last updated: 04.02.2019</em></p>\n\n\n\n<h2>Enso Datatable</h2>\n\n\n\n<p>The Enso Datatable lets you create complex tables based on JSON templates.</p>\n\n\n\n<p>It supports server-side data loading and Excel exporting. Out-of-the-box functions range from searching, sorting and pagination to front-end translations and customization of column visibility.</p>\n\n\n\n<p>This datatable&nbsp;uses Bulma for its layout, and has a few other dependencies for some of its functions. You can use it as part of the whole Enso ecosystem, which provides you with an SPA boilerplate. If you don&#8217;t need that, you can use the datatable independently, too.</p>\n",
+        "excerpt": "<p>Datatables are a complex beast. If you ever built data-heavy business applications, you will probably know it&#8217;s not easy to make them readable and clear. A datatable component needs to be flexible enough to adapt to your dataset and use cases. I&#8217;ve collected some of my favourite datatable components for Vue.js in this article! I&#8217;ll keep the [&hellip;]</p>\n",
+        "date": "2019-02-12 09:42:58",
+        "modified": "2019-02-12 09:55:11",
+        "categories": [
+            {
+                "id": 4,
+                "slug": "ui-components",
+                "title": "UI Components",
+                "description": "",
+                "parent": 0,
+                "post_count": 1
+            }
+        ],
+        "tags": [],
+        "author": {
+            "id": 1,
+            "slug": "rsuregarid",
+            "name": "rsuregarid",
+            "first_name": "",
+            "last_name": "",
+            "nickname": "rsuregarid",
+            "url": "",
+            "description": ""
+        },
+        "comments": [],
+        "attachments": [],
+        "comment_count": 0,
+        "comment_status": "closed",
+        "thumbnail": "https://rsuregar.id/cms/wp-content/uploads/2019/02/2019.jpg",
+        "custom_fields": {},
+        "thumbnail_size": "post-thumbnail",
+        "thumbnail_images": {
+            "full": {
+                "url": "https://rsuregar.id/cms/wp-content/uploads/2019/02/2019.jpg",
+                "width": 1024,
+                "height": 1024
+            },
+            "thumbnail": {
+                "url": "https://rsuregar.id/cms/wp-content/uploads/2019/02/2019-150x150.jpg",
+                "width": 150,
+                "height": 150
+            },
+            "medium": {
+                "url": "https://rsuregar.id/cms/wp-content/uploads/2019/02/2019-300x300.jpg",
+                "width": 300,
+                "height": 300
+            },
+            "post-thumbnail": {
+                "url": "https://rsuregar.id/cms/wp-content/uploads/2019/02/2019.jpg",
+                "width": 1024,
+                "height": 1024
+            }
+        }
+    },
+    "previous_url": "https://rsuregar.id/cms/advanced-vue-js-debugging-via-vuejsdevelopers/"
+}
