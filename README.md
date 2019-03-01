@@ -1,4 +1,4 @@
-# vuetwo
+# vueWp
 
 ## Project setup
 ```
